@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+
+.red{
+    font-family: 'Mynerve', cursive;
+    background-color: rgb(223, 176, 114);}
+
+.purple{
+font-family: 'Mynerve', cursive;
+ background-color: aqua;} 
+.purple ul{
+    list-style: none;
+}
+.csr {
+font-family: 'Mynerve', cursive;
+background-color: blueviolet;}
+.csr ul{
+    list-style: none;
+}
+.rti{
+font-family: 'Mynerve', cursive;
+background-color: brown;}
+.rti ul{
+    list-style: none;
+}
+.curso{
+font-family: 'Mynerve', cursive;
+background-color: green;}
+ .curso ul{
+    list-style: none;
+ }   
+.fafa{
+font-family: 'Mynerve', cursive;
+background-color: crimson;}
+.fafa ul{
+    list-style: none;
+}
+.feeer{
+font-family: 'Mynerve', cursive;
+background-color: aquamarine;}
+.feeer ul{
+    list-style: none;
+}
+
+.tt{
+font-family: 'Mynerve', cursive;
+background-color: rgb(0, 255, 149);}
+
+     
